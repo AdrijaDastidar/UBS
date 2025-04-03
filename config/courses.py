@@ -2,7 +2,7 @@
 COURSES_BY_CATEGORY = {
     "Software Development and Engineering": {
         "Frontend Developer": [
-            ["Frontend Web Development Bootcamp [Free]", "https://youtu.be/zJSY8tbf_ys"],
+            ["Competitive Coding [Free]", "10.6.78.123:8000/lms/courses/aa"],
             ["React Complete Course 2024 [Free]", "https://youtu.be/bMknfKXIFA8"],
             ["The Web Developer Bootcamp", "https://www.udemy.com/course/the-web-developer-bootcamp/"],
             ["Frontend Masters Complete Path", "https://frontendmasters.com/learn/beginner/"],
